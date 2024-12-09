@@ -1,0 +1,27 @@
+/* Comentario*/
+body {
+    background: rgb(247,243,207);
+    background: linear-gradient(0deg, rgba(247,243,207,1) 0%, rgba(194,228,203,1) 100%);
+font-family: "Dancing Script", cursive;
+font-size: larger;
+}
+.snoopy{
+    height: 150px;
+    border-radius: 150px;
+    border: solid;
+}
+    .snoopyycharliebrown{
+        width: 150px;
+        border-radius: 200px;
+        border: solid;
+    }
+    h2{
+        text-align: center;
+    }
+.curiosos{
+    background-image: url("https://s0.smartresize.com/wallpaper/268/897/HD-wallpaper-snoopy-fgw-gsm.jpg");
+    font-size: 20px;  
+}
+.imagenes{
+  text-align: center;
+}
